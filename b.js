@@ -1,6 +1,1 @@
-
-console.log("b");
-console.log("bbbbbbbbb");
-require("./b2");
-
-hahahahahaha
+虐虐虐！！！
